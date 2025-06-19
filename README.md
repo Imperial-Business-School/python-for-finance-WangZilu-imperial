@@ -32,4 +32,5 @@ By the end of the module, you will be able to:
 > Session are interactive, with instructor-led live coding. Students are encouraged to follow along and type code in real-time. **Laptop required.**
 
 
+
 ![Module Calendar](assets/calendar.png)
